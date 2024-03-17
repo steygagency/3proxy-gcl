@@ -111,4 +111,4 @@ IP6=$(curl -6 -s icanhazip.com | cut -f1-4 -d':')
 
 echo "Internal ip = ${IP4}. Exteranl sub for ip6 = ${IP6}"
 
-... (Phần còn lại giống như code gốc)
+#... (Phần còn lại giống như code gốc)
